@@ -1,3 +1,5 @@
+
+[rsschool-cv](https://nastusha23.github.io/rsschool-cv/cv)
 # Anastasia Kuzmicheva
 
 ## Contakts
@@ -10,7 +12,7 @@
 I am a fairly goal-oriented person and always try to achieve my goal. I can also find motivation for myself and move forward.
 
 ## Skills
-* __HTNL, CSS:__ (Basic)
+* __HTML, CSS:__ (Basic)
 * __Figma:__ (https://sun2.beltelecom-by-minsk.userapi.com/s/v1/if2/C47Sb_RATj2kejCtAZJGR8_42i_PXMY8QyjYmY1KqgZOJvQ8mo71PXllc7T54oGpMro7aY_IdaItSY9X6wQnGHU0.jpg?size=1280x800&quality=95&type=album)[progect]
 * __Git:__ 
 ## Aducation
