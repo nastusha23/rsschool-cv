@@ -1,3 +1,159 @@
-.h1 {
- color: blueviolet;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+.body {
+    background-color: rgb(248, 255, 243);
 }
+.topnav {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(58, 84, 41);
+    overflow: hidden;
+}
+
+.topnav a {
+    font-family: 'Roboto', sans-serif;
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(160, 204, 113);
+    color: rgb(255, 255, 255);
+}
+.h1 {
+    color: rgb(67, 105, 31);
+    font-family: 'Roboto', sans-serif;
+    text-indent: 30px;
+    text-align: center
+}
+.img {
+    margin-top: 50px;
+    width: 300px;
+    height: 300px;
+    border-radius: 1000px; 
+    border: 3px solid rgb(93, 119, 61); 
+    box-shadow: 0 0 7px #666;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.pills {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0;
+    list-style: none;
+    counter-reset: li;
+    font-family: calibri;
+  }
+  .pills li {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0;
+    position: relative;
+    left: 1.5em;
+    margin-bottom: 0.75em;
+    padding-left: 1em;
+    background: #d1dfb9;
+  }
+  .pills li:before {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -1.5em;
+    width: 1.875em;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background: #8dc25c;
+    border-bottom-left-radius: 70em;
+    border-top-left-radius: 70em;
+    counter-increment: li;
+    content: counter(li);
+  }
+  html {
+    scroll-behavior: smooth; 
+  }
+  
+  .gh {
+    font-family: 'Roboto', sans-serif;  
+  }
+.h2 {
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(67, 105, 31);
+}
+.ik {
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(67, 105, 31);
+}
+.jk {
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(67, 105, 31);
+}
+.pillc {
+    font-family: 'Roboto', sans-serif;
+    margin-left: 0;
+    list-style: none;
+    counter-reset: li;
+    font-family: calibri;
+  }
+  .pillc li {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0;
+    position: relative;
+    left: 1.5em;
+    margin-bottom: 0.75em;
+    padding-left: 1em;
+    background: #d1dfb9;
+  }
+  .pillc li:before {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: -1.5em;
+    width: 1.875em;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background: #8dc25c;
+    border-bottom-left-radius: 70em;
+    border-top-left-radius: 70em;
+    counter-increment: li;
+    content: counter(li);
+  }
+  .imag {
+    border-radius: 100px; 
+    border: 3px solid rgb(93, 119, 61); 
+    box-shadow: 0 0 7px #666;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+  }
+  .df {
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(67, 105, 31);
+    text-align: center
+  }
+  .bh {
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(67, 105, 31);
+  }
+  .yu {
+    font-family: 'Roboto', sans-serif; 
+  }
+  .gt {
+    margin-top: 100px;
+    font-family: 'Roboto', sans-serif; 
+    color: rgb(67, 105, 31);
+  }
+  .fr {
+    font-family: 'Roboto', sans-serif; 
+  }
